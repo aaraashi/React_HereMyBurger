@@ -1,0 +1,7 @@
+.SummaryButton {
+    font-size: 14px;
+    border-radius: 10px;
+    background-color: blueviolet;
+    flex-direction: row;
+    margin: auto;
+}
